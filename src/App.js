@@ -304,7 +304,7 @@ export default function App() {
         <div id="about_mob" className={styles.about_mobile}>
           <div className={styles.about_mobile_cnt}>
             <h1 className={styles.about_h1}>About</h1>
-            <p className={styles.about_p1}>
+            <p className={styles.about_p1_1}>
               Welcome to Catnut, the first nut of the Meme Tree! Catnut lays the
               foundation for an ecosystem of interconnected tokens, each adding
               unique value to the Meme Tree. Together, they drive creativity,

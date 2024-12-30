@@ -755,6 +755,28 @@ html {
     margin-left: 2rem;
   }
 }
+.about_p1_1 {
+  width: 28.86625rem;
+  color: #367d6a;
+  font-family: Montserrat;
+  font-size: 1.64456rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  text-align: left;
+  margin-left: 5.19rem;
+  @media (max-width: 768px) {
+    margin: 0;
+    width: 19rem;
+    color: #367d6a;
+    font-family: Montserrat;
+    font-size: 1.0425rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+}
 .about_p1 {
   width: 28.86625rem;
   color: #367d6a;
