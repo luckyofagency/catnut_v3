@@ -301,10 +301,11 @@ export default function App() {
             <p className={styles.copytext_p}>CLICK TO COPY...</p>
           </div>
         </div>
+        {/* dsa */}
         <div id="about_mob" className={styles.about_mobile}>
           <div className={styles.about_mobile_cnt}>
             <h1 className={styles.about_h1}>About</h1>
-            <p className={styles.about_p1_1}>
+            <p className={styles.about_p1}>
               Welcome to Catnut, the first nut of the Meme Tree! Catnut lays the
               foundation for an ecosystem of interconnected tokens, each adding
               unique value to the Meme Tree. Together, they drive creativity,
