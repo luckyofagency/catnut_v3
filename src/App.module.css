@@ -1231,8 +1231,8 @@ html {
   /* margin-top: 0.35rem; */
   @media (max-width: 768px) {
     /* margin-left: 0.78rem; */
-    width: 4.01369rem;
-    height: 4.01369rem;
+    width: 4.01369rem !important;
+    height: 4.01369rem !important;
     margin: 0;
 
     flex-shrink: 0;
