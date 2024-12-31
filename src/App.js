@@ -164,7 +164,7 @@ export default function App() {
                 </div>
               </div>
               <div className={styles.copytext_2} onClick={handleCopy}>
-                <p className={styles.copytext_p}>CLICK TO COPY...</p>
+                <p className={styles.copytext_p}>DnyWojUDhePjzH9rBwZcB61i8ud2H8CWxAQ8pJoqpump</p>
               </div>
               <img
                 className={styles.right_side_img_2}
@@ -299,7 +299,7 @@ export default function App() {
             src="./images/main_img.png"
           ></img>
           <div className={styles.copytext} onClick={handleCopy}>
-            <p className={styles.copytext_p}>CLICK TO COPY...</p>
+            <p className={styles.copytext_p}>DnyWojUDhePjzH9rBwZcB61i8ud2H8CWxAQ8pJoqpump</p>
           </div>
         </div>
         {/* dsa */}
