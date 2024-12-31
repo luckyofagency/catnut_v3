@@ -5,7 +5,7 @@ export default function App() {
   const [isOpenMenu, setIsOpenMenu] = useState(false);
 
   const handleCopy = () => {
-    const textToCopy = "CLICK TO COPY...";
+    const textToCopy = "DnyWojUDhePjzH9rBwZcB61i8ud2H8CWxAQ8pJoqpump";
     navigator.clipboard.writeText(textToCopy).then(
       () => {
         // alert("Текст скопирован!");
@@ -102,7 +102,7 @@ export default function App() {
             onClick={() => setIsOpenMenu(!isOpenMenu)}
             src="./images/menu_btn.png"
           ></img>
-          <button className={styles.header_btn}>Buy now</button>
+          <button className={styles.header_btn} onClick={() => { document.location.href = 'https://pump.fun/coin/DnyWojUDhePjzH9rBwZcB61i8ud2H8CWxAQ8pJoqpump' }}>Buy now</button>
         </div>
         <div id="home" className={styles.main_cnt}>
           <div className={styles.main_mobile_cnt}>
@@ -203,7 +203,7 @@ export default function App() {
           </div>
 
           <div className={styles.left_side}>
-            <h1 className={styles.m_l_h1}>Catnut</h1>
+            <h1 className={styles.m_l_h1}>$Catnut</h1>
             <p className={styles.m_l_p}>
               The most memeable memecoin in existencwe. The dogs have had their
               day, it’s time for Catnut to take reign
