@@ -1155,9 +1155,9 @@ html {
     transform: scale(1.1);
   }
 
-  @media (max-width: 768px) {
-    width: 18.3125rem;
-    height: 11.2885rem;
+  @media screen and (max-width: 768px) {
+    width: 18.3125rem !important;
+    height: 11.2885rem !important;
     flex-shrink: 0;
     border-radius: 0rem 0.528rem;
     border: 0.15rem solid #323232;
