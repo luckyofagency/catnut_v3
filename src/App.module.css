@@ -851,6 +851,7 @@ html {
   @media (max-width: 768px) {
     margin: 0;
     position: relative;
+    display: none !important;
     text-align: left;
     width: 18.5rem;
     color: #367d6a;
