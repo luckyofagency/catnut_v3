@@ -427,7 +427,7 @@ html {
     align-items: center;
     /* justify-content: center; */
     width: 19.5rem;
-    height: 86px;
+    height: 84px;
     flex-shrink: 0;
     border-radius: 0.28219rem;
     border: 0.2rem solid #ffa26e;
@@ -449,7 +449,7 @@ html {
   line-height: normal;
   margin-left: 2rem;
   word-break: break-all;
-  text-align: left;
+  text-align: center;
   font-size: 1.7rem;
   @media (max-width: 768px) {
     color: rgba(255, 162, 110, 0.5);
