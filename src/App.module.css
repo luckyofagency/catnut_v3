@@ -1751,7 +1751,9 @@ html {
   flex-shrink: 0;
   padding-top: 9.37rem;
   @media (max-width: 768px) {
-    width: 100%;
+    width: 100% !importantf;
+    padding-top: 0 !important;
+    height: auto !important;
 
     flex-shrink: 0;
     padding-bottom: 1.2rem;
