@@ -1787,7 +1787,6 @@ html {
   width: 120rem;
   height: 29.875rem;
   flex-shrink: 0;
-  background: #367d6a;
   @media (max-width: 768px) {
     /* display: none; */
     /* padding-top: 15rem; */
