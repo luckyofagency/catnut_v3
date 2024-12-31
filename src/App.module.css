@@ -352,7 +352,7 @@ html {
 }
 .copytext {
   position: absolute;
-  width: 49.75rem;
+  width: 39.75rem;
   height: 5.61575rem;
   flex-shrink: 0;
   border-radius: 0.72rem;
@@ -360,7 +360,6 @@ html {
   background: #307865;
   right: 0;
   margin-top: 34.5rem;
-  margin-right: 5rem;
   display: flex;
   align-items: center;
   @media (max-width: 768px) {
