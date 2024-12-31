@@ -1240,10 +1240,9 @@ html {
   }
 }
 .tree_card_img_2 {
-  width: 16.0625rem;
-  height: 15.4375rem;
+  height: 4.4375rem;
+  width: 4.0625rem;
   flex-shrink: 0;
-  margin-left: 2.5rem;
   /* margin-top: 1rem; */
   @media (max-width: 768px) {
     /* margin-left: 0.47rem; */
