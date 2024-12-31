@@ -22,6 +22,7 @@ export default function App() {
           className={`${styles.menu_cnt} ${isOpenMenu ? styles.active : ""}`}
         >
           <div className={styles.menu_nav}>
+            <button className={styles.header_btn2} onClick={() => { document.location.href = 'https://pump.fun/coin/DnyWojUDhePjzH9rBwZcB61i8ud2H8CWxAQ8pJoqpump' }}>Buy now</button>
             <a
               className={styles.menu_list}
               href="#home"
